@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial,Microsoft YaHei,Microsoft Sans Serif,Microsoft SanSerf,\\5FAE\8F6F\96C5\9ED1;
+    background: url(../images/bilibili_Explain.jpg) top/cover no-repeat fixed;
+    font-size: 30px;
+    line-height: 12px;
+    color: #666;
+}
+#div1{
+    position: relative;
+    top:220px;
+    left:25%;
+}
+#div2{
+    position: relative;
+    top:250px;
+    left:22%;
+}
+#div3{
+    position: relative;
+    top:280px;
+    left:22%;
+}
+#div4{
+    position: relative;
+    top:310px;
+    left:22%;
+}
+#main{
+    position: relative;
+    top:410px;
+    left:48%;
+}
+#main a{
+  text-decoration: none;
+  color: #666;
+  display: block;
+}
+#main a:hover{
+    font-size: 29px;
+}

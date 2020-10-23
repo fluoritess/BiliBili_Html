@@ -1,0 +1,259 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#top{
+    background-color:rgba(242,239,245,0.5);
+    width: 100%;
+    position:absolute;left:0px;top:0px;
+    height: 40px;
+}
+#top_left{
+    position:absolute;left:300px;top:0px;
+
+}
+#top_right{
+    position: absolute;right: 400px;top:3px;
+
+}
+#top_right a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#top_left li{
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+}
+#top_left ul a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#top a:hover{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 15px;
+    color: black;
+}
+#header_bottom{
+    position: absolute;left: 400px;top:50px;
+}
+#header_bottom2{
+    position: absolute;right: 250px;top:90px;
+}
+#header_bottom2 .search-submit{
+
+    right: 0;
+    width: 48px;
+    min-width: 0;
+    cursor: pointer;
+    height: 32px;
+    background: url(//static.hdslb.com/images/base/icons.png) ;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#center{
+    width: 1400px;
+    position:absolute;left:400px;top:200px;
+    height: 500px;
+}
+#center li{
+    list-style-type: none;
+}
+#center_top a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+    display: block;
+}
+#center_top a:hover {
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#center_ul>li>ul>li>a:hover{
+    background-color: rgb(229,233,239);
+}
+#center_ul>li>ul>li>a{
+    display: block;
+    width: 120px;
+    height:35px;
+    background-color: rgb(39, 207, 230);
+
+}
+#center_ul a{
+
+    display: block;
+    background-color: white;
+    list-style-type: none;
+    text-align: center;
+}
+#center_top{
+    height:100px;
+}
+#center_top>ul>li{
+    float: left;
+    list-style-type: none;
+    padding: 12px;
+}
+#center_ul ul{
+    display: none;
+}
+#center_top>ul>li:hover ul{
+    display: block;
+}
+#bootom_left{
+    position:absolute;left:10px;top:50px;
+}
+#bootom_right{
+    position:absolute;left:470px;top:50px;
+}
+#bootom_right_bootom{
+    position:absolute;left:470px;top:165px;
+}
+#bili3,#center_ul{
+    position: absolute;
+}
+#bili3{
+    z-index: -1;
+}
+#center_ul{
+    z-index: 1;
+}
+#tupian{
+    position: absolute;top:240px;left: 300px;
+}
+#tupian li{
+    list-style-type: none;
+    float: left;
+    padding: 5px;
+}
+#tupian a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+#Extension{
+    position: absolute;left:410px;top:500px;  
+}
+#Extension_son2 li{
+    list-style-type: none;
+    float: left;
+    padding:9px;
+   
+}
+#Extension2{
+    position: absolute;left:555px;top:520px;    
+}
+#Extension2 a{
+    color: rgb(4, 124, 139);
+    font-size: 13px;
+    text-decoration: none;
+}
+#Extension3{
+    position: absolute;right:400px;top:520px;    
+}
+#Extension3 li{
+    list-style-type: none;
+    float: left;   
+    padding: 6px;
+}
+#Extension3 a{
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+    background-color: rgb(229,233,239);
+}
+#Extension4{
+    position: absolute;right:390px;top:560px;    
+}
+
+
+
+
+#guanggao{
+    position: absolute;left:410px;top:740px;
+}
+
+
+
+
+#zhibo_top_1{
+    position: absolute;left:410px;top:850px;
+}
+#zhibo_top_1 li{
+    list-style-type: none;
+    float: left;
+}
+#zhibo_top_1 a{
+    text-decoration: none;
+    color: rgb(39, 207, 230);
+    font-size: 12px;
+}
+#zhibo_top_2{
+    position: absolute;left: 600px;top:868px;
+}
+#zhibo_top_2 a{
+    text-decoration: none;
+    color:rgb(4, 124, 139);
+    font-size: 12px;
+}
+#zhibo_top_3{
+    position: absolute;left: 760px;top:865px;
+}
+#zhibo_left{
+    position: absolute;left: 410px;top:900px;
+}
+#zhibo_left li{
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+#zhibo_left2{
+    position: absolute;left: 410px;top:1070px;
+}
+#zhibo_left2 li{
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+#zhibo_right{
+    position: absolute;right:446px;top:860px;
+}
+#zhibo_right a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+  font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+}
+#zhibo_right li{
+    list-style-type: none;
+    float: left;
+    padding: 8px;
+}
+#tupian2{
+    position: absolute;right:380px;top:910px;
+}

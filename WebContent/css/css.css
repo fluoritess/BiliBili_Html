@@ -1,0 +1,39 @@
+body
+{
+    font-family: "Helvetica","Arial",serif;
+    color: #333;
+    background-color: #ccc;
+    margin: 1em 10%;
+}
+h
+{
+    font-size: 3em;
+}
+.class1
+{text-align:center;
+font-size: 1.5em;
+}
+
+#class2{
+    position: absolute;left:750px;top:600px;
+}
+#menu>li{
+    float: left;
+    padding: 14px;
+}
+#class2 li{
+    list-style-type: none;       
+}
+#class2 a{
+    text-decoration: none;
+}
+#menu ul{
+    display: none;
+}
+#menu>li:hover ul{
+    display: block;
+}
+#menu>li>ul>li>a:hover{
+    display: block;
+    background-color: rgb(90,162,176);
+}

@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#top_left{
+    position: relative;left: 370px;top: 0xp;
+}
+#top_left li{
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+#top_left a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 13px;
+    color: black
+}
+#top_right{
+    position: relative;top:0px;left: 1200px;
+}
+#top_right a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#top_bootom{
+
+        background: #00a0d8;
+        height: 86px;
+        text-align: center;
+        margin-bottom: 20px;
+}
+
+
+#center{
+    position: relative;top:30px;left:48%;
+    font-size: 50px;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    color: black;
+}
+#center a{
+    font-size: 50px;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    color: black;
+    text-decoration: none;
+}
+#center_1{
+    position: relative;top:50px;left:46%;
+}
+#center_2{
+    position: relative;top:80px;left:46%;
+}
+#center_3{
+    position: relative;top:110px;left:46%;
+}
+#center_4{
+    position: relative;top:140px;left:46%;
+}
+
+
+#bootom{
+    z-index: 2;
+    position: relative;
+    top:400px;
+    left: 400px;
+    font-family:  Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+#bootom a{
+    color: black;
+    text-decoration: none;
+    font-family:Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+#bootom li{
+    padding: 10px;
+    float: left;
+    list-style: none;
+}
+#bootom1{
+    position: relative;
+    top:20px;
+    left:-283px;
+}
+#bootom2{
+    position: relative;
+    top:-70px;
+}
+#bootom3{
+    position: relative;
+    top:-30px;
+    left:-268px;
+}
+#bg{
+    position: absolute;
+    top:600px;
+    height: 310px;
+    width: 100%;
+    background-color: rgb(246,249,250);
+    z-index: 1;
+}
+
+
+#bootom{
+    z-index: 2;
+    position: relative;
+    top:400px;
+    left: 400px;
+    font-family:  Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+#bootom a{
+    color: black;
+    text-decoration: none;
+    font-family:Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+#bootom li{
+    padding: 10px;
+    float: left;
+    list-style: none;
+}
+#bootom1{
+    position: relative;
+    top:20px;
+    left:-283px;
+}
+#bootom2{
+    position: relative;
+    top:-70px;
+}
+#bootom3{
+    position: relative;
+    top:-30px;
+    left:-268px;
+}
+#bg{
+    position: absolute;
+    top:600px;
+    height: 310px;
+    width: 100%;
+    background-color: rgb(246,249,250);
+    z-index: 1;
+}
+
+
+
+
+
+

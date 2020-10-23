@@ -1,0 +1,171 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+img{
+    z-index: -1;
+}
+li{
+    z-index: 1;
+}
+a{
+    z-index: 1;
+}
+ul{
+    z-index: 1;
+}
+#top{
+    background-color:rgba(242,239,245,0.5);
+    width: 100%;
+    position:absolute;left:0px;top:0px;
+    height: 40px;
+}
+#top_left{
+    position:absolute;left:300px;top:0px;
+
+}
+#top_right{
+    position: absolute;right: 400px;top:3px;
+
+}
+#top_right a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#top_left li{
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+}
+#top_left ul a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#top a:hover{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 15px;
+    color: black;
+    background-color:rgb(241,235,235);
+}
+#header_bottom{
+    position: absolute;left: 400px;top:50px;
+}
+#header_bottom2{
+    position: absolute;right: 250px;top:90px;
+}
+#header_bottom2 .search-submit{
+
+    right: 0;
+    width: 48px;
+    min-width: 0;
+    cursor: pointer;
+    height: 32px;
+    background: url(//static.hdslb.com/images/base/icons.png) ;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+
+#center{
+    width: 1400px;
+    position:absolute;left:400px;top:200px;
+    height: 500px;
+}
+#center li{
+    list-style-type: none;
+}
+#center_top a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+    display: block;
+}
+#center_top a:hover {
+    text-decoration: none;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    font-size: 14px;
+    color: black;
+}
+#center_ul>li>ul>li>a:hover{
+    background-color: rgb(229,233,239);
+}
+#center_ul>li>ul>li>a{
+    display: block;
+    width: 120px;
+    height:35px;
+    background-color: rgb(39, 207, 230);
+
+}
+#center_ul a{
+
+    display: block;
+    background-color: white;
+    list-style-type: none;
+    text-align: center;
+}
+#center_top{
+    height:100px;
+}
+#center_top>ul>li{
+    float: left;
+    list-style-type: none;
+    padding: 12px;
+}
+#center_ul ul{
+    display: none;
+}
+#center_top>ul>li:hover ul{
+    display: block;
+}
+
+
+
+#body_1{
+    position: relative;
+    left:410px;
+    top:70px;
+    font-weight: normal;
+    color:rgb(82,86,89);
+    font: 20px Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+#body_2{
+    color: #99a2aa;
+    font: 12px 'Helvetica Neue',Helvetica,Arial,'Microsoft Yahei','Hiragino Sans GB','Heiti SC','WenQuanYi Micro Hei',sans-serif;
+    position: relative;
+    left:410px;
+    top:80px;
+}
+#body_3{
+    position: relative;
+    left:410px;
+    top:95px;
+}
+#body_4{
+    position: relative;
+    left:1200px;
+    top:0px;
+}
+#body_5{
+    position: relative;
+    left:410px;
+    top:0px;
+}
+#body_6{
+    position: relative;
+    left:1100px;
+    top:-60px;
+}
+#body_7{
+    position: relative;
+    left:410px;
+    top:0px;
+}

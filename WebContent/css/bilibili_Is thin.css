@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#top{
+    background-color: rgba(18,18,28,0.6);
+    position: absolute;left:0px;top:0px;
+    width:100%;
+    height:50px;
+}
+#top_left{
+    position: absolute;left:300px;top: 0px;
+}
+#top_left li{
+    list-style-type: none;
+    float: left;
+}
+#top_left a{
+    color:white;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width:70px;
+    height:35px;  
+    padding-top: 15px;
+    font-size: 13px;
+}
+#top_left a:hover{
+    background-color: rgba(0,0,0,0.4);
+}
+#top_right{
+    position: absolute;right:300px;top: 0px;
+}
+#top_right li{
+    list-style-type: none;
+    float: left;
+}
+#top_right a{
+    color:white;
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width:70px;
+    height:35px;  
+    padding-top: 15px;
+    font-size: 13px;
+}
+#top_right a:hover{
+    background-color: rgba(0,0,0,0.4);
+}
+#center{
+    position: absolute;left:42%;top:35%;
+    font-size: 60px;
+    color: rgba(255,255,255,0.8);
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+}
+#center2{
+    position: absolute;left:40%;top:45%;
+    font-size: 40px;
+    color:rgba(255,255,255,0.7);
+    font-family: "Microsoft YaHei", "Microsoft Sans Serif", "Microsoft SanSerf", "\5FAE\8F6F\96C5\9ED1";
+
+}

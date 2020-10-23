@@ -1,0 +1,145 @@
+
+div.one{
+  width: 100%;
+  height: 40px;
+  top:0;
+  position: absolute;
+  left: 0;
+  
+}
+div.one_2{
+  width: 500px;
+  height: 40px;
+  top:0;
+  left:20%;
+  position: absolute;
+}
+div.one_3{
+  width: 400px;
+  height:40px;
+  top:0;
+  position:absolute;
+  left:60%;
+}
+div.onload{
+  width: 58px;
+  height: 48px;
+  background-color: #f61086;
+  position: absolute;
+  top:0;
+  left:76%;line-height: 14px;
+  text-align: center;
+}
+div.onload a{
+    text-decoration: none;
+}
+div.onload p{
+  color: white;
+  font-size: 20px;
+}
+
+div.one ul {
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+}
+div.one ul li{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  float: left;
+  list-style: none;
+}
+div.one ul a:link{
+  padding: 10px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family:  Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+  display: block;
+  color: black;
+}
+div.one ul a:hover{
+  background-color: rgba(247, 245, 229, 0.81);
+  color:rgba(58, 181, 241, 0.93);
+}
+.yid{
+  position: relative;
+  top:50px;
+  left: 0;
+  width: 100%;
+  height: 689px;
+  background-image: url(../images/y-bk.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.bk-img{
+  position: absolute;
+  top:450px;
+  left: 0;
+  width: 100%;
+  height: 689px;
+  background-image: url(../images/y-bk2.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.pn{
+  position: absolute;
+  top:60px;
+  left:370px;
+  width: 500px;
+  height: 600px;
+}
+.erwei{
+  position: absolute;
+  top:250px;
+  left:1000px;
+  width: 222px;
+  height: 222px;
+  background-image: url(../images/y3.png);
+}
+.ad{
+  position: absolute;
+  top:-20px;
+  left: 200px;
+  width: 400px;
+}
+.ad li{
+  float: left;
+  list-style: none;
+}
+.bili{
+  position: absolute;
+  top:120px;
+  left:1000px;
+  width: 420px;
+  height: 100px;
+  background-image: url(../images/y2.png);
+}
+.butt{
+  position: absolute;
+  top:750px;
+  left: 0;
+  width: 100%;
+  height: 200px;
+  font:12px 'Helvetica Neue',Helvetica,Arial,'Microsoft Yahei','Hiragino Sans GB','Heiti SC','WenQuanYi Micro Hei',sans-serif;
+}
+.butt p{
+  font-size: 36px;
+  position: relative;
+  top:0;
+  left:850px;
+  width: 200px;
+}
+.wei{
+  position: relative;
+  top:0;
+  left: 300px;
+  width: 1300px;
+  height: 200px;
+}
+.wei li{
+  position: relative;
+  float: left;
+  list-style: none;
+  width: 300px;
+}
